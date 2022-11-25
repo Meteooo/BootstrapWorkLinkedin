@@ -1,0 +1,79 @@
+body{
+    /* font-family: 'Playfair Display', serif; */
+    font-family: 'Nunito', sans-serif;
+    
+}
+.navbar.navbar-expand-lg.navbar-light.bg-white{
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+.textFont {
+    font-family: 'Nunito', sans-serif;
+}
+
+.shadow{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.hrNav{
+        border: none;
+        border-left: 1px solid rgb(211, 211, 211);
+        height: 10px;
+        width: 1px;     
+}
+
+.navTextcolor{
+    color: rgb(128, 128, 128);
+}
+
+.inputDiv{
+    border: 1px solid rgb(169, 169, 169);
+    border-radius: 5px;
+}
+.inputSearch {
+    border:none;
+    background-color: transparent;
+    margin-left: 2px;
+    border-color: transparent;
+    outline: none;
+    border-radius: 5px;
+}
+
+.imageDiv{
+    position: absolute; width: 70px; height: 70px; margin-left: 90px; margin-top:30px;
+}
+
+.imgDivİmg{
+    width:70px; height:70px;
+}
+
+.postSharedDiv{
+    /* border: 1px solid rgb(169, 169, 169); */
+    width: 500px;
+    height: 45px;
+    
+}
+
+.form-control{
+    width: 440px;
+    border: none;
+    outline: none;
+}
+
+.sharedPostInput{
+    border: 1px solid rgb(211, 211, 211);
+}
+
+.card.mt-2.shadow.hashtag{
+    position: sticky;
+    top: 0;
+}
+
+.sabitsag{
+    position: sticky;
+    top: 0;
+}
